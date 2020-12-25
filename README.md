@@ -1,0 +1,2 @@
+# fortuneapp
+Fortune app Angaza
