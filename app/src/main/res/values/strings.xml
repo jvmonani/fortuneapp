@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFortuneApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loading…</string>
+    <string name="item">What\'s your fortune?</string>
+    <string name="unknown_error">Unknown Server Error.</string>
+</resources>
